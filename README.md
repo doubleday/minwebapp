@@ -1,0 +1,2 @@
+# minwebapp
+Simple Webpack Template
